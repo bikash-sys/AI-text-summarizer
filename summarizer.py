@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import scrolledtext
 from transformers import pipeline
 
-# Load the summarization model (once, to avoid delay on button click)
+
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 # Function to summarize input text
