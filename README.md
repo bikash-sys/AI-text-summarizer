@@ -97,5 +97,5 @@ elif 'summarize' in self.query:
 
 ### 🧑‍💻 Author
 
-Developed with ❤️ by [YourName]
+Developed with ❤️ by bikash-sys
 
